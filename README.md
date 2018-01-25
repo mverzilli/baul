@@ -21,4 +21,5 @@ La clave está en identificar qué notas son fundamentales y cuáles adornos. La
 
 # Markdown
 
-![Linkear imágenes](https://github.com/mverzilli/baul/raw/master/page1progression.png)
+## Linkear imágenes
+`![Linkear imágenes](https://github.com/mverzilli/baul/raw/master/page1progression.png)`
